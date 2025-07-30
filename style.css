@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background-color: #f8f9fa;
+}
+
+.book-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 8px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+.book-card button {
+  margin-top: 8px;
+  margin-right: 4px;
+}
+
+#newBookDialog {
+  border: none;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f0f0f0;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
